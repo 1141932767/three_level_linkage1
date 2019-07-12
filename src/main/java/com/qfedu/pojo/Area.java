@@ -1,0 +1,35 @@
+package com.qfedu.pojo;
+
+/**
+ * @author: jie
+ * @create: 2019-07-11 19:45
+ **/
+public class Area {
+
+    private int id;
+    private String name;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Area{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                '}';
+    }
+}
