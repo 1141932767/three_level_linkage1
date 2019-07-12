@@ -1,0 +1,7 @@
+com\qfedu\utils\JedisClientPool.class
+com\qfedu\service\impl\AreaServiceImpl.class
+com\qfedu\service\AreaService.class
+com\qfedu\controller\AreaController.class
+com\qfedu\dao\AreaDao.class
+com\qfedu\utils\JedisClient.class
+com\qfedu\pojo\Area.class
